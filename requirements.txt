@@ -1,0 +1,2 @@
+anthropic>=0.40   # only needed for --llm anthropic; BM25 and the mock use the standard library
+pytest>=8          # tests
